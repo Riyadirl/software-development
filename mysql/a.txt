@@ -43,3 +43,4 @@ WHERE id = '2';
 # Step 7: Re-enable Safe Mode (Optional)
 */
 SET SQL_SAFE_UPDATES = 1;
+  7
