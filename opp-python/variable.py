@@ -11,28 +11,28 @@ print(age + interest_rate)
 print(type(age))
 
 # Numeric types
-age = 25                  # int
-pi = 3.14                 # float
-complex_num = 2 + 3j      # complex
+age = 25  # int
+pi = 3.14  # float
+complex_num = 2 + 3j  # complex
 
 # Sequence types
-name = "John"             # str
+name = "John"  # str
 fruits = ["apple", "banana", "cherry"]  # list
-numbers = (1, 2, 3)       # tuple
+numbers = (1, 2, 3)  # tuple
 range_example = range(5)  # range
 
 # Mapping type
-person = {"name": "John", "age": 25}    # dict
+person = {"name": "John", "age": 25}  # dict
 
 # Set types
-unique_numbers = {1, 2, 3, 4}           # set
+unique_numbers = {1, 2, 3, 4}  # set
 frozen_set_example = frozenset([1, 2, 3, 4])  # frozenset
 
 # Boolean type
-is_active = True           # bool
+is_active = True  # bool
 
 # Binary types
-binary_data = b"Hello"     # bytes
+binary_data = b"Hello"  # bytes
 bytearray_data = bytearray(5)  # bytearray
 memoryview_data = memoryview(bytes(5))  # memoryview
 
